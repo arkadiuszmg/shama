@@ -27,9 +27,9 @@
         <h2>Suma zamówienia: {{number_format($TotalPrice,2)}} zł</h2>
 
     <div class="form-group, pull-right">
-        <a class="btn btn-info" href="{{route('front.order')}}">Zamawiam</a>
+        <a class="btn btn-info" href="#">Zamawiam</a>
     </div>
 
-    fghfgfgfhgfhgfg
+
 
 @endsection
