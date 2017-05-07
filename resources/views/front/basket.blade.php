@@ -30,4 +30,6 @@
         <a class="btn btn-info" href="{{route('front.order')}}">Zamawiam</a>
     </div>
 
+    fghfgfgfhgfhgfg
+
 @endsection
